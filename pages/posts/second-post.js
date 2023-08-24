@@ -19,9 +19,7 @@ export default function SecondPost() {
      />
 
     <h1> Eu amo você! </h1>
-    <h2>
-       <Link href="/">Back to home</Link>
-    </h2>
+    
     </Layout>
     );
 }
