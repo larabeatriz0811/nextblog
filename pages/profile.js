@@ -8,7 +8,7 @@ export default function Profile() {
       </Head>
     
     <Image
-    src="/imagens/profile.jpg"
+    src="/images/profile.jpg"
     height={400}
     width={400}
     alt="Your Name"
